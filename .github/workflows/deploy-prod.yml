@@ -8,7 +8,7 @@ on:
 env:
   IMAGE_REGISTRY_URL: ghcr.io
   ###############################################
-  ### Replace JanTopolewskiZSK with GitHub username ###
+  ### Replace username with GitHub username ###
   ###############################################
   DOCKER_IMAGE_NAME: JanTopolewskiZSK-azure-ttt
   AZURE_WEBAPP_NAME: JanTopolewskiZSK-ttt-app
